@@ -1,4 +1,15 @@
 {
-    "discord": "discord.org",
-    "another_package": "another download link"
+"placeholder" : [
+    {
+    "App": "",
+    "Author": "",
+    "InstallPath": "",
+    "Description": "",
+    "website": "",
+    "tags": "",
+    "category": "",
+    "isZip": null,
+    "execName": ""
+    }
+] 
 }
