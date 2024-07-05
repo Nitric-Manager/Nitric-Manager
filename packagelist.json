@@ -1,7 +1,18 @@
 {
 "placeholder" : [
     {
-    "App": "",
+    "App": "test1",
+    "Author": "",
+    "InstallPath": "",
+    "Description": "",
+    "website": "",
+    "tags": "",
+    "category": "",
+    "isZip": null,
+    "execName": ""
+    }
+    {
+    "App": "test2",
     "Author": "",
     "InstallPath": "",
     "Description": "",
