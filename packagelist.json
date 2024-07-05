@@ -11,18 +11,5 @@
     "isZip": null,
     "execName": ""
     }
-],
-"placeholder" : [
-    {
-    "App": "test2",
-    "Author": "",
-    "InstallPath": "",
-    "Description": "",
-    "website": "",
-    "tags": "",
-    "category": "",
-    "isZip": null,
-    "execName": ""
-    }
 ] 
 }
