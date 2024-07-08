@@ -11,5 +11,18 @@
     "isZip": null,
     "execName": ""
     }
-] 
+],
+"Discord" : [
+    {
+    "App": "Discord",
+    "Author": "",
+    "InstallPath": "",
+    "Description": "",
+    "website": "",
+    "tags": "",
+    "category": "",
+    "isZip": null,
+    "execName": ""
+    }
+],
 }
