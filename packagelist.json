@@ -1,28 +1,28 @@
 {
-"placeholder" : [
-    {
-    "App": "test1",
-    "Author": "",
-    "InstallPath": "",
-    "Description": "",
-    "website": "",
-    "tags": "",
-    "category": "",
-    "isZip": null,
-    "execName": ""
-    }
-],
-"Discord" : [
-    {
-    "App": "Discord",
-    "Author": "",
-    "InstallPath": "",
-    "Description": "",
-    "website": "",
-    "tags": "",
-    "category": "",
-    "isZip": null,
-    "execName": ""
-    }
-]
+    "placeholder": [
+        {
+            "App": "test1",
+            "Author": "",
+            "InstallPath": "",
+            "Description": "",
+            "website": "",
+            "tags": "",
+            "category": "",
+            "isZip": null,
+            "execName": ""
+        }
+    ],
+    "Discord": [
+        {
+            "App": "Discord",
+            "Author": "",
+            "InstallPath": "",
+            "Description": "",
+            "website": "",
+            "tags": "",
+            "category": "",
+            "isZip": null,
+            "execName": ""
+        }
+    ]
 }
