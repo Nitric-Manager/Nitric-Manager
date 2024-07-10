@@ -3,7 +3,7 @@
         {
             "App": "test1",
             "Author": "",
-            "InstallPath": "",
+            "InstallLink": "",
             "Description": "",
             "website": "",
             "tags": "test",
@@ -15,14 +15,28 @@
     "discord": [
         {
             "App": "discord",
-            "Author": "",
-            "InstallPath": "",
-            "Description": "",
-            "website": "",
+            "Author": "Discord Inc.",
+            "InstallLink": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
+            "Description": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
+            "website": "https://discord.com/",
             "tags": "chatapp",
+            "category": "",
+            "isZip": false,
+            "execName": "DiscordSetup"
+        }
+    ],
+    "vscode": [
+        {
+            "App": "Visual Studio Code",
+            "Author": "Microsoft",
+            "InstallLink": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+            "Description": "Code editing. Redefined.",
+            "website": "https://code.visualstudio.com/",
+            "tags": "test",
             "category": "",
             "isZip": null,
             "execName": ""
         }
     ]
+    
 }
